@@ -1,0 +1,164 @@
+{
+  "nav": {
+    "home": "Nyumbani",
+    "concept": "Dhana",
+    "about": "Kuhusu Sisi",
+    "strengths": "Nguvu Zetu",
+    "objectives": "Malengo"
+  },
+  "hero": {
+    "title": "POPEP",
+    "subtitle": "MCHEZO WA UPENDO",
+    "description": "Furahini pamoja, shiriki na upende!",
+    "cta": "Gundua mchezo",
+    "order_only": "Inapatikana kwa agizo tu"
+  },
+  "language": {
+    "select": "Chagua Lugha"
+  },
+  "values": {
+    "title": "Maadili Yetu",
+    "kindness": {
+      "title": "Wema",
+      "description": "Kukuza maingiliano ya joto na heshima ambapo kila mchezaji anahisi kusikika na kuthaminiwa."
+    },
+    "inclusivity": {
+      "title": "Ujumuishaji",
+      "description": "Kukaribisha na kusherehekea utofauti wa wanandoa na marafiki, kuhakikisha kila mtu anapata nafasi yake na anaweza kufurahia mchezo."
+    },
+    "commitment": {
+      "title": "Kujitolea",
+      "description": "Kujitolea kuunda uzoefu unaoimarisha uhusiano huku ukiwasaidia wazazi wachanga na mahusiano ya mbali."
+    },
+    "complicity": {
+      "title": "Ushirikiano",
+      "description": "Kuhamasisha nyakati za kushiriki na kuunganika, kukuza ushirikiano kati ya marafiki na wapenzi kupitia uzoefu wa kufurahisha."
+    }
+  },
+  "about": {
+    "title": "Sisi ni Nani?",
+    "description": {
+      "text1": "Sisi ni familia yenye shauku ya michezo na nyakati za kushiriki. Tukiongozwa na hamu ya kuunda uzoefu wa kufurahisha unaofikiwa na wote, tuliunda Popep: mchezo wa kufurahisha na wa kipekee kwa familia, marafiki, na wapenzi.",
+      "text2": "Kupitia kadi zetu, tunatumai kutoa nyakati za kuunganika, kucheka, na kumbukumbu za thamani kwa wote wanaopenda kutumia muda mzuri pamoja."
+    },
+    "story": {
+      "title": "Historia Yetu",
+      "description": "Ilitokana na 'Nakupenda' rahisi iliyobadilishwa na mwana wetu kuwa 'POPEP'"
+    },
+    "mission": {
+      "title": "Dhamira Yetu",
+      "description": "Kuunda nyakati zisizosahaulika kati ya wapendwa"
+    },
+    "vision": {
+      "title": "Maono Yetu",
+      "description": "Kufanya mchezo ufikiwe na wote, katika lugha zote"
+    },
+    "values": {
+      "title": "Maadili Yetu",
+      "description": "Wema, ujumuishaji, na uhalisia"
+    }
+  },
+  "home": {
+    "versions": "Matoleo ya Mchezo",
+    "couple": {
+      "title": "Mchezo wa Wanandoa - Kugundua Upya Mwenzako",
+      "description": "Hata ukiwa umependana kwa muda mrefu, kuna mambo mapya ya kugundua"
+    },
+    "distance": {
+      "title": "Mchezo wa Umbali - Kujisikia Karibu Licha ya Umbali",
+      "description": "Leo, wanandoa wengi wanaishi mbali, ama kwa muda au kudumu"
+    },
+    "postpartum": {
+      "title": "Love&Couches - Mchezo Maalum wa Baada ya Kujifungua",
+      "description": "Kuza ukaribu wakati unajifunza kuishi maisha yako mapya, na mwanafamilia mpya"
+    },
+    "friends": {
+      "title": "Mchezo wa Marafiki - Kwa Wale Tunaofikiria Tunawajua",
+      "description": "Tunafikiri tunajua kila kitu kuhusu marafiki zetu, lakini mazungumzo ya kweli ni nadra"
+    },
+    "values": {
+      "title": "Maadili Yetu",
+      "kindness": {
+        "title": "Wema",
+        "description": "Maingiliano ya joto na heshima ambapo kila mtu anahisi kusikika"
+      },
+      "inclusivity": {
+        "title": "Ujumuishaji",
+        "description": "Kusherehekea utofauti wa wanandoa na marafiki"
+      },
+      "accessibility": {
+        "title": "Upatikanaji",
+        "description": "Inapatikana katika lugha nyingi kwa kila mtu"
+      }
+    },
+    "testimonials": {
+      "title": "Wanachosema",
+      "couple": {
+        "text": "Mchezo ulioiMarisha uhusiano wetu. Nyakati tulizoshiriki ni za thamani!",
+        "author": "Marie na Thomas"
+      },
+      "friends": {
+        "text": "Kamili kwa mikutano yetu ya marafiki. Daima tunagundua kitu kipya!",
+        "author": "Kikundi cha Marafiki"
+      },
+      "parents": {
+        "text": "Toleo la Love&Couches lilitusaidia kugundua upya ukaribu wetu.",
+        "author": "Elodie na Sara"
+      }
+    }
+  },
+  "concept": {
+    "intro": {
+      "text1": "Uundaji wa mchezo wa kadi uliobuniwa kwa hadhira tofauti, na matoleo yaliyotengenezwa mahususi kwa wanandoa, marafiki, mahusiano ya mbali, na toleo maalum kwa wazazi wapya.",
+      "text2": "Kila toleo linalenga kukuza mawasiliano, kushiriki, na kuimarisha uhusiano, kuruhusu kila mtu kupata nyakati za kipekee na zenye manufaa, bila kujali muktadha wa uhusiano wao."
+    },
+    "versions": {
+      "couple": {
+        "title": "Mchezo wa Wanandoa - Kugundua Upya Mwenzako",
+        "description": "Hata ukiwa umependana kwa muda mrefu, kuna mambo mapya ya kugundua.",
+        "longDescription": "Mchezo huu ni mwaliko wa kukuza ushirikiano, kufungua mazungumzo, na kuimarisha uelewano katika ndoa. Kwa sababu upendo unakuzwa kupitia matendo madogo na mazungumzo makubwa."
+      },
+      "distance": {
+        "title": "Mchezo wa Umbali - Kujisikia Karibu Licha ya Umbali",
+        "description": "Leo, wanandoa wengi wanaishi mbali, ama kwa muda au kudumu.",
+        "longDescription": "Mchezo huu ulibuniwa kwa ajili yao: njia ya kufurahisha ya kuvunja mazoea na kufurahi pamoja, hata kupitia skrini, simu au ujumbe mfupi. Kwa sababu upendo wa kweli haujui mipaka."
+      },
+      "postpartum": {
+        "title": "Love&Couches - Mchezo Maalum wa Baada ya Kujifungua",
+        "description": "Wanandoa mmoja kati ya wawili wanapata changamoto baada ya kuja kwa mtoto. Uchovu, hisia, mabadiliko...",
+        "longDescription": "Mchezo huu ulibuniwa kusaidia kujenga upya uhusiano katika kipindi hiki nyeti. Tukiwa tumekaa kwenye kochi, kati ya kunyonyesha, bado tunaweza kusema mambo muhimu — na zaidi ya yote, kuendelea kupendana."
+      },
+      "friends": {
+        "title": "Mchezo wa Marafiki - Kwa Wale Tunaofikiria Tunawajua",
+        "description": "Tunafikiri tunajua kila kitu kuhusu marafiki zetu, lakini mazungumzo ya kweli ni nadra.",
+        "longDescription": "Mchezo huu unarejesha siri, kumbukumbu, vicheko, na wakati mwingine mshangao. Kwa sababu haijakawia kugundua (au kugundua upya) wale wanaotuzunguka."
+      }
+    }
+  },
+  "strengths": {
+    "title": "Nguvu Zetu",
+    "subtitle": "Kuonyesha uhalisia wa mchezo na kujitolea kwetu kwa utofauti na mazingira.",
+    "expertise": {
+      "title": "Utaalamu wa Kujalizana",
+      "description": "Timu yenye ujuzi mbalimbali inayotajirisha mradi, ikiunganisha uzoefu wa kitaaluma na kibinafsi kuunda bidhaa ya kipekee na ya kuvutia."
+    },
+    "passion": {
+      "title": "Shauku na Uhalisia",
+      "description": "Mradi uliotokana na upendo wa kweli kwa mahusiano ya kibinadamu, ukitoa uzoefu halisi na wenye maana kwa wachezaji."
+    },
+    "eco": {
+      "title": "Kujitolea kwa Mazingira",
+      "description": "Kujitolea kupunguza athari za mazingira kupitia chaguo endelevu, katika ubunifu wa mchezo na vifaa vilivyotumika."
+    },
+    "accessibility": {
+      "title": "Upatikanaji",
+      "description": "Ubunifu jumuishi unaoruhusu kila mtu kushiriki, bila kujali umri, asili, au mwelekeo, kuhakikisha kuwa kila mtu anaweza kushiriki nyakati za kuunganika."
+    }
+  },
+  "footer": {
+    "rights": "© 2024 POPEP - Haki zote zimehifadhiwa",
+    "contact": "Wasiliana",
+    "legal": "Ilani ya Kisheria",
+    "terms": "Masharti na Vigezo"
+  }
+}

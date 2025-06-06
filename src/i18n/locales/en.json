@@ -1,0 +1,254 @@
+{
+  "nav": {
+    "home": "Home",
+    "concept": "Concept",
+    "about": "About",
+    "strengths": "Our Strengths",
+    "objectives": "Objectives"
+  },
+  "hero": {
+    "title": "POPEP",
+    "subtitle": "GAME I LOVE YOU",
+    "description": "Have fun together, share, and love each other!",
+    "cta": "Discover the Game",
+    "order_only": "Available by Order Only"
+  },
+  "language": {
+    "select": "Select Language"
+  },
+  "values": {
+    "title": "Our Values",
+    "kindness": {
+      "title": "Kindness",
+      "description": "Promote warm and respectful interactions where each player feels heard and valued."
+    },
+    "inclusivity": {
+      "title": "Inclusivity",
+      "description": "Welcome and celebrate the diversity of couples and friends, ensuring everyone feels included and can enjoy the game."
+    },
+    "commitment": {
+      "title": "Commitment",
+      "description": "Dedicated to creating experiences that strengthen bonds, supporting young parents and long-distance relationships."
+    },
+    "complicity": {
+      "title": "Connection",
+      "description": "Encourage moments of sharing and connection, fostering closeness between friends and partners through playful experiences."
+    }
+  },
+  "about": {
+    "title": "Who Are We?",
+    "description": {
+      "text1": "We are a family passionate about games and shared moments. Driven by the desire to create playful experiences accessible to all, we created Popep: a fun and original game for families, friends, and lovers.",
+      "text2": "Through our cards, we hope to offer moments of connection, laughter, and cherished memories to those who enjoy spending quality time together."
+    },
+    "story": {
+      "title": "Our Story",
+      "description": "Born from a simple 'I love you' turned into 'POPEP' by our son."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "Create unforgettable moments of sharing among loved ones."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "Make games accessible to everyone, in every language."
+    },
+    "values": {
+      "title": "Our Values",
+      "description": "Kindness, inclusivity, and authenticity"
+    }
+  },
+  "home": {
+    "versions": "Game Versions",
+    "couple": {
+      "title": "The Couple's Game - To (Re)Discover Each Other",
+      "description": "Even when you’ve loved each other for a long time, there are always new things to explore."
+    },
+    "distance": {
+      "title": "The Long-Distance Game - To Get Closer Despite the Miles",
+      "description": "Nowadays, more and more couples are in long-distance relationships, temporarily or long term."
+    },
+    "postpartum": {
+      "title": "Love&Diapers - The Postpartum Special Game",
+      "description": "Foster intimacy while adapting to your new life with a new family member."
+    },
+    "friends": {
+      "title": "The Friends Game - For Those We Think We Already Know",
+      "description": "We think we know our friends well, but real conversations are often rare."
+    },
+    "values": {
+      "title": "Our Values",
+      "kindness": {
+        "title": "Kindness",
+        "description": "Warm and respectful interactions where everyone feels heard."
+      },
+      "inclusivity": {
+        "title": "Inclusivity",
+        "description": "Celebrate the diversity of couples and friends."
+      },
+      "accessibility": {
+        "title": "Accessibility",
+        "description": "Available in multiple languages for everyone."
+      }
+    },
+    "testimonials": {
+      "title": "What They Say",
+      "couple": {
+        "text": "A game that truly strengthened our relationship. The shared moments are precious!",
+        "author": "Marie & Thomas"
+      },
+      "friends": {
+        "text": "Perfect for our evenings with friends. We always discover something new!",
+        "author": "Friend Group"
+      },
+      "parents": {
+        "text": "The Love&Diapers version helped us reconnect.",
+        "author": "Élodie & Sara"
+      }
+    }
+  },
+  "concept": {
+    "intro": {
+      "text1": "A card game designed for different audiences, with versions specifically adapted for couples, friends, long-distance relationships, and a special version for young parents.",
+      "text2": "Each version aims to foster communication, sharing, and closeness, allowing everyone to experience unique and enriching moments, whatever their relationship context."
+    },
+    "versions": {
+      "couple": {
+        "title": "The Couple's Game - To (Re)Discover Each Other",
+        "description": "Even when you’ve loved each other for a long time, there are always new things to explore.",
+        "longDescription": "This game is an invitation to nourish intimacy, open dialogue, and strengthen understanding within the couple. Because love grows with both small gestures and deep conversations."
+      },
+      "distance": {
+        "title": "The Long-Distance Game - To Get Closer Despite the Miles",
+        "description": "Nowadays, more and more couples are in long-distance relationships, temporarily or long term.",
+        "longDescription": "This game is made for them: a playful way to break routine and have fun together—even through a screen, a call, or a simple text. Because true love knows no distance."
+      },
+      "postpartum": {
+        "title": "Love&Diapers - The Postpartum Special Game",
+        "description": "One in two couples struggles after the arrival of a child. Fatigue, emotions, upheaval...",
+        "longDescription": "This game is designed to help reconnect during this sensitive time. Sitting on the couch between feedings, you can still share important words — and most of all, keep loving each other."
+      },
+      "friends": {
+        "title": "The Friends Game - For Those We Think We Already Know",
+        "description": "We think we know our friends well, but real conversations are often rare.",
+        "longDescription": "This game brings back the focus on confidences, memories, laughter, and sometimes surprises. Because it’s never too late to discover (or rediscover) those around us."
+      }
+    }
+  },
+  "strengths": {
+    "title": "Our Strengths",
+    "subtitle": "Highlight the authenticity of the game and its commitment to diversity and the environment.",
+    "expertise": {
+      "title": "Complementary Expertise",
+      "description": "A team with diverse skills enriching the project, blending professional and personal experience to create a unique and engaging product."
+    },
+    "passion": {
+      "title": "Passion and Authenticity",
+      "description": "A project born from a true love for human relationships, offering players authentic and meaningful experiences."
+    },
+    "eco": {
+      "title": "Environmental Commitment",
+      "description": "A desire to minimize environmental impact through sustainable choices, both in game design and material selection."
+    },
+    "accessibility": {
+      "title": "Accessibility",
+      "description": "An inclusive design enabling everyone to take part—regardless of age, background, or orientation—ensuring everyone can enjoy moments of connection."
+    }
+  },
+  "legal": {
+    "title": "Legal Notice",
+    "company": {
+      "title": "SITE OPERATOR IDENTIFICATION",
+      "name": "Twambaze Marie-Ange EI",
+      "address": "Epinay-Sur-Seine (to be completed)",
+      "registration": "927 823 146 R.C.S. Bobigny",
+      "vat": "FR33927823146",
+      "contact": "contact@popep.fr - 07 59 65 41 88"
+    },
+    "hosting": {
+      "title": "SITE HOSTING",
+      "text": "The site www.popep.fr is hosted by Netlify, Inc., located at 44 Montgomery Street, Suite 300, San Francisco, California 94104."
+    },
+    "intellectual": {
+      "title": "INTELLECTUAL PROPERTY",
+      "text1": "All site content (texts, images, videos, etc.) is protected by intellectual property laws. Any reproduction or use without prior authorization is strictly prohibited.",
+      "text2": "The POPEP® brand is a registered trademark. Unauthorized use of this brand constitutes infringement."
+    },
+    "privacy": {
+      "title": "PERSONAL DATA PROTECTION",
+      "text1": "In accordance with the General Data Protection Regulation (GDPR), you have the right to access, rectify, delete, and port your personal data.",
+      "text2": "To exercise these rights or for any questions regarding your data, contact us at: contact@popep.fr"
+    },
+    "cookies": {
+      "title": "COOKIES",
+      "text": "Our website uses cookies to improve your browsing experience. You can configure your browser to refuse non-essential cookies."
+    },
+    "links": {
+      "title": "EXTERNAL LINKS",
+      "text": "The site may contain links to external websites. We are not responsible for the content or practices of these sites."
+    },
+    "credits": {
+      "title": "CREDITS",
+      "text": "Design and development: Cindano Jonathan @snooker4real\nGraphic design: Created by FARANI DESIGN\nPhotos: Unsplash, Pexels\nIcons: Lucide Icons"
+    }
+  },
+  "terms": {
+    "title": "General Terms of Sale",
+    "sections": {
+      "identity": {
+        "title": "COMPANY IDENTITY",
+        "content": "Name: Twambaze Marie-Ange EI\nAddress: Epinay-Sur-Seine (to be completed)\nContact: contact@popep.fr - 07 59 65 41 88"
+      },
+      "scope": {
+        "title": "SCOPE",
+        "content": "These general terms govern all sales made via www.popep.fr."
+      },
+      "products": {
+        "title": "PRODUCTS",
+        "content": "We offer card games for couples, long-distance couples, postpartum couples, and friends, with various themes."
+      },
+      "prices": {
+        "title": "PRICES",
+        "content": "Product prices are listed in euros and include VAT. Delivery charges will be added at checkout."
+      },
+      "orders": {
+        "title": "ORDERS",
+        "content": "Orders are placed online. An order confirmation will be sent via email once payment is received."
+      },
+      "payment": {
+        "title": "PAYMENT METHODS",
+        "content": "We accept credit card payments and other methods listed on the Amazon site."
+      },
+      "delivery": {
+        "title": "DELIVERY",
+        "content": "Products are shipped within an average of 3 business days, depending on the delivery area. Shipping fees apply and vary by location."
+      },
+      "withdrawal": {
+        "title": "RIGHT OF WITHDRAWAL",
+        "content": "According to the law, you have 14 days to exercise your right of withdrawal. Products must be returned in their original, complete condition. Return shipping is at the customer's expense."
+      },
+      "warranty": {
+        "title": "WARRANTY AND AFTER-SALES SERVICE",
+        "content": "Our products are guaranteed against manufacturing defects. For any questions or complaints, contact us at contact@popep.fr."
+      },
+      "privacy": {
+        "title": "DATA PROTECTION",
+        "content": "We are committed to protecting your personal data. It will not be shared with third parties without your consent. You may request access, correction, or deletion of your data."
+      },
+      "modification": {
+        "title": "CHANGES TO THE TERMS",
+        "content": "We reserve the right to modify these terms. Customers will be informed by email of any changes."
+      },
+      "law": {
+        "title": "APPLICABLE LAW",
+        "content": "These terms are governed by French law. In case of dispute, local courts will have jurisdiction."
+      }
+    }
+  },
+  "footer": {
+    "rights": "© 2024 POPEP - All Rights Reserved",
+    "contact": "Contact",
+    "legal": "Legal Notice",
+    "terms": "Terms & Conditions"
+  }
+}

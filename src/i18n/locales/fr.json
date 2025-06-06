@@ -1,0 +1,254 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "concept": "Concept",
+    "about": "À propos",
+    "strengths": "Nos Forces",
+    "objectives": "Objectifs"
+  },
+  "hero": {
+    "title": "POPEP",
+    "subtitle": "JEU T'ADORE",
+    "description": "Amusez-vous ensemble, partagez et aimez-vous !",
+    "cta": "Découvrir le jeu",
+    "order_only": "Uniquement sur commande"
+  },
+  "language": {
+    "select": "Sélectionner la langue"
+  },
+  "values": {
+    "title": "Nos Valeurs",
+    "kindness": {
+      "title": "Bienveillance",
+      "description": "Promouvoir des interactions chaleureuses et respectueuses, où chaque joueur se sent écouté et valorisé."
+    },
+    "inclusivity": {
+      "title": "Inclusivité",
+      "description": "Accueillir et célébrer la diversité des couples et des amis, en s'assurant que chacun trouve sa place et puisse profiter du jeu."
+    },
+    "commitment": {
+      "title": "Engagement",
+      "description": "S'engager à créer des expériences qui renforcent les liens, tout en soutenant les jeunes parents et les relations à distance."
+    },
+    "complicity": {
+      "title": "Complicité",
+      "description": "Encourager des moments de partage et de connexion, favorisant la complicité entre amis et partenaires à travers des expériences ludiques."
+    }
+  },
+  "about": {
+    "title": "Qui Sommes-Nous ?",
+    "description": {
+      "text1": "Nous sommes une famille passionnée par les jeux et les moments de partage. Animés par le désir de créer des expériences ludiques accessibles à tous, nous avons conçu Popep : un jeu fun et original pour les familles, les amis et les amoureux.",
+      "text2": "À travers nos cartes, nous espérons offrir des instants de complicité, de rires et de souvenirs précieux à tous ceux qui aiment passer du bon temps ensemble."
+    },
+    "story": {
+      "title": "Notre Histoire",
+      "description": "Née d'un simple 'Je t'aime' transformé par notre fils en 'POPEP'"
+    },
+    "mission": {
+      "title": "Notre Mission",
+      "description": "Créer des moments de partage inoubliables entre proches"
+    },
+    "vision": {
+      "title": "Notre Vision",
+      "description": "Rendre le jeu accessible à tous, dans toutes les langues"
+    },
+    "values": {
+      "title": "Nos Valeurs",
+      "description": "Bienveillance, inclusivité, engagement et complicité"
+    }
+  },
+  "home": {
+    "versions": "Versions du Jeu",
+    "couple": {
+      "title": "Le Jeu en Couple - Pour (Re)découvrir l'Autre",
+      "description": "Même lorsqu'on s'aime depuis longtemps, il reste toujours des choses à explorer"
+    },
+    "distance": {
+      "title": "Le Jeu à Distance - Pour se Rapprocher Malgré les Kilomètres",
+      "description": "Aujourd'hui, de plus en plus de couples vivent à distance, que ce soit temporairement ou sur le long terme"
+    },
+    "postpartum": {
+      "title": "Love&Couches - Le Jeu Spécial Post-Partum",
+      "description": "Favorisez l'intimité tout en vous adaptant à votre nouvelle vie, avec un nouveau membre dans votre famille"
+    },
+    "friends": {
+      "title": "Le Jeu Entre Amis - Pour Ceux qu'On Croit Déjà Connaître",
+      "description": "On pense tout savoir de nos amis, mais les vraies discussions se font souvent rares"
+    },
+    "values": {
+      "title": "Nos Valeurs",
+      "kindness": {
+        "title": "Bienveillance",
+        "description": "Des interactions chaleureuses et respectueuses où chacun se sent écouté"
+      },
+      "inclusivity": {
+        "title": "Inclusivité",
+        "description": "Célébrons la diversité des couples et des amis"
+      },
+      "accessibility": {
+        "title": "Accessibilité",
+        "description": "Disponible en plusieurs langues pour tous"
+      }
+    },
+    "testimonials": {
+      "title": "Ce qu'ils en disent",
+      "couple": {
+        "text": "Un jeu qui a vraiment renforcé notre relation. Les moments partagés sont précieux !",
+        "author": "Marie & Thomas"
+      },
+      "friends": {
+        "text": "Parfait pour nos soirées entre amis. On découvre toujours quelque chose de nouveau !",
+        "author": "Groupe d'amis"
+      },
+      "parents": {
+        "text": "La version Love&Couches nous a aidés à retrouver notre complicité.",
+        "author": "Élodie & Sara"
+      }
+    }
+  },
+  "concept": {
+    "intro": {
+      "text1": "Création d'un jeu de cartes conçu pour différents publics, avec des versions spécifiquement adaptées pour les couples, les amis, les relations à distance, ainsi qu'une version spéciale pour les jeunes parents.",
+      "text2": "Chaque version vise à favoriser la communication, le partage et la complicité, permettant ainsi à chacun de vivre des moments uniques et enrichissants, quel que soit son contexte relationnel."
+    },
+    "versions": {
+      "couple": {
+        "title": "Le Jeu en Couple - Pour (Re)découvrir l'Autre",
+        "description": "Même lorsqu'on s'aime depuis longtemps, il reste toujours des choses à explorer.",
+        "longDescription": "Ce jeu est une invitation à nourrir la complicité, à ouvrir le dialogue et à renforcer la compréhension au sein du couple. Parce que l'amour se cultive aussi dans les petites attentions et mais aussi de grandes conversations."
+      },
+      "distance": {
+        "title": "Le Jeu à Distance - Pour se Rapprocher Malgré les Kilomètres",
+        "description": "Aujourd'hui, de plus en plus de couples vivent à distance, que ce soit temporairement ou sur le long terme.",
+        "longDescription": "Ce jeu a été pensé pour eux : une manière ludique de casser la routine, de s'amuser ensemble, même à travers un écran, un appel ou un simple sms. Parce que l'amour véritable ne connaît pas de frontières."
+      },
+      "postpartum": {
+        "title": "Love&Couches - Le Jeu Spécial Post-Partum",
+        "description": "Un couple sur deux est en difficulté après l'arrivée d'un enfant. La fatigue, les émotions, le bouleversement...",
+        "longDescription": "Ce jeu a été conçu pour aider à recréer du lien dans cette période sensible. Assis sur le canapé, entre deux biberons, on peut encore se dire des choses importantes — et avant tout, continuer à s'aimer."
+      },
+      "friends": {
+        "title": "Le Jeu Entre Amis - Pour Ceux qu'On Croit Déjà Connaître",
+        "description": "On pense tout savoir de nos amis, mais les vraies discussions se font souvent rares.",
+        "longDescription": "Ce jeu remet au centre les confidences, les souvenirs, les rires, parfois les surprises. Parce qu'il n'est jamais trop tard pour découvrir (ou redécouvrir) ceux qui nous entourent."
+      }
+    }
+  },
+  "strengths": {
+    "title": "Nos Forces",
+    "subtitle": "Soulignent l'authenticité du jeu et son engagement envers la diversité et l'environnement.",
+    "expertise": {
+      "title": "Expertise Complémentaire",
+      "description": "Une équipe aux compétences variées qui enrichit le projet, combinant expériences professionnelles et personnelles pour créer un produit unique et engageant."
+    },
+    "passion": {
+      "title": "Passion et Authenticité",
+      "description": "Un projet né d'un véritable amour pour les relations humaines, offrant des expériences authentiques et significatives aux joueurs."
+    },
+    "eco": {
+      "title": "Engagement Écologique",
+      "description": "Une volonté de minimiser l'impact environnemental à travers des choix durables, que ce soit dans la conception des jeux ou dans les matériaux utilisés."
+    },
+    "accessibility": {
+      "title": "Accessibilité",
+      "description": "Un design inclusif qui permet à tous de participer, quel que soit leur âge, origine ou orientation, garantissant que chacun puisse partager des moments de complicité."
+    }
+  },
+  "legal": {
+    "title": "Mentions Légales",
+    "company": {
+      "title": "IDENTIFICATION DE L'OPÉRATEUR DU SITE",
+      "name": "Twambaze Marie-Ange EI",
+      "address": "Epinay-Sur-Seine (à compléter)",
+      "registration": "927 823 146 R.C.S. Bobigny",
+      "vat": "FR33927823146",
+      "contact": "contact@popep.fr - 07 59 65 41 88"
+    },
+    "hosting": {
+      "title": "HÉBERGEMENT DU SITE",
+      "text": "Le site www.popep.fr est hébergé par Netlify, Inc., situé au 44 Montgomery Street, Suite 300, San Francisco, California 94104."
+    },
+    "intellectual": {
+      "title": "PROPRIÉTÉ INTELLECTUELLE",
+      "text1": "L'ensemble du contenu de ce site (textes, images, vidéos, etc.) est protégé par les lois sur la propriété intellectuelle. Toute reproduction ou utilisation sans autorisation préalable est strictement interdite.",
+      "text2": "La marque POPEP® est une marque déposée. Toute utilisation non autorisée de cette marque constitue une contrefaçon."
+    },
+    "privacy": {
+      "title": "PROTECTION DES DONNÉES PERSONNELLES",
+      "text1": "Conformément au Règlement Général sur la Protection des Données (RGPD), vous disposez d'un droit d'accès, de rectification, d'effacement et de portabilité de vos données personnelles.",
+      "text2": "Pour exercer ces droits ou pour toute question sur le traitement de vos données, vous pouvez nous contacter à l'adresse : contact@popep.fr"
+    },
+    "cookies": {
+      "title": "COOKIES",
+      "text": "Notre site utilise des cookies pour améliorer votre expérience de navigation. Vous pouvez configurer votre navigateur pour refuser les cookies non essentiels."
+    },
+    "links": {
+      "title": "LIENS EXTERNES",
+      "text": "Le site peut contenir des liens vers des sites externes. Nous ne sommes pas responsables du contenu ou des pratiques de ces sites."
+    },
+    "credits": {
+      "title": "CRÉDITS",
+      "text": "Design et développement : Cindano Jonathan @snooker4real\nDesign graphique : Création FARANI DESIGN\nPhotos : Unsplash, Pexels\nIcônes : Lucide Icons"
+    }
+  },
+  "terms": {
+    "title": "Conditions Générales de Vente",
+    "sections": {
+      "identity": {
+        "title": "IDENTITÉ DE L'ENTREPRISE",
+        "content": "Nom: Twambaze Marie-Ange EI\nAdresse: Epinay-Sur-Seine (à compléter)\nContact: contact@popep.fr - 07 59 65 41 88"
+      },
+      "scope": {
+        "title": "CHAMP D'APPLICATION",
+        "content": "Les présentes conditions générales de vente régissent toutes les ventes effectuées via www.popep.fr."
+      },
+      "products": {
+        "title": "PRODUITS",
+        "content": "Nous proposons des jeux de cartes destinés aux couples, aux couples en relation à distance, aux couples en situation de post-partum et aux amis, avec différentes thématiques."
+      },
+      "prices": {
+        "title": "PRIX",
+        "content": "Les prix des produits sont indiqués en euros et incluent la TVA. Les frais de livraison seront ajoutés au moment de la commande."
+      },
+      "orders": {
+        "title": "COMMANDES",
+        "content": "Les commandes se font en ligne. La confirmation de commande sera envoyée par email une fois le paiement reçu."
+      },
+      "payment": {
+        "title": "MODALITÉS DE PAIEMENT",
+        "content": "Nous acceptons les paiements par carte bancaire et autres méthodes indiquées sur le site d'Amazon."
+      },
+      "delivery": {
+        "title": "LIVRAISON",
+        "content": "Les produits sont expédiés dans un délai moyen de 3 jours ouvrables, suivant la zone de livraison. Les frais de livraison s'appliquent et varieront selon la zone de livraison."
+      },
+      "withdrawal": {
+        "title": "DROIT DE RÉTRACTATION",
+        "content": "Conformément à la loi, vous disposez d'un délai de 14 jours pour exercer votre droit de rétractation. Les produits doivent être retournés dans leur état d'origine et complets. Les frais de retour sont à la charge du client."
+      },
+      "warranty": {
+        "title": "GARANTIE ET SERVICE APRÈS-VENTE",
+        "content": "Nos produits sont garantis contre tout défaut de fabrication. Pour toute question ou réclamation, veuillez nous contacter à contact@popep.fr."
+      },
+      "privacy": {
+        "title": "PROTECTION DES DONNÉES",
+        "content": "Nous nous engageons à protéger vos données personnelles. Elles ne seront pas partagées avec des tiers sans votre consentement. Vous avez le droit de demander l'accès à vos données, leur rectification ou leur suppression."
+      },
+      "modification": {
+        "title": "MODIFICATION DES CGV",
+        "content": "Nous nous réservons le droit de modifier les présentes conditions. Les clients seront informés par email de toute modification."
+      },
+      "law": {
+        "title": "LOIS APPLICABLES",
+        "content": "Les présentes CGV sont soumises au droit français. En cas de litige, les tribunaux de votre localité seront compétents."
+      }
+    }
+  },
+  "footer": {
+    "rights": "© 2024 POPEP - Tous droits réservés",
+    "contact": "Contact",
+    "legal": "Mentions légales",
+    "terms": "CGV"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "concept": "Concepto",
+    "about": "Sobre Nosotros",
+    "strengths": "Nuestras Fortalezas",
+    "objectives": "Objetivos"
+  },
+  "hero": {
+    "title": "POPEP",
+    "subtitle": "JUEGO DE AMOR",
+    "description": "¡Diviértanse juntos, compartan y ámense!",
+    "cta": "Descubrir el juego",
+    "order_only": "Disponible solo por encargo"
+  },
+  "language": {
+    "select": "Seleccionar idioma"
+  },
+  "values": {
+    "title": "Nuestros Valores",
+    "kindness": {
+      "title": "Amabilidad",
+      "description": "Promover interacciones cálidas y respetuosas donde cada jugador se siente escuchado y valorado."
+    },
+    "inclusivity": {
+      "title": "Inclusividad",
+      "description": "Acoger y celebrar la diversidad de parejas y amigos, asegurando que cada uno encuentre su lugar y pueda disfrutar del juego."
+    },
+    "commitment": {
+      "title": "Compromiso",
+      "description": "Comprometerse a crear experiencias que fortalezcan los vínculos mientras se apoya a los padres jóvenes y las relaciones a distancia."
+    },
+    "complicity": {
+      "title": "Complicidad",
+      "description": "Fomentar momentos de compartir y conexión, promoviendo la complicidad entre amigos y parejas a través de experiencias lúdicas."
+    }
+  },
+  "about": {
+    "title": "¿Quiénes Somos?",
+    "description": {
+      "text1": "Somos una familia apasionada por los juegos y los momentos compartidos. Impulsados por el deseo de crear experiencias lúdicas accesibles para todos, diseñamos Popep: un juego divertido y original para familias, amigos y parejas.",
+      "text2": "A través de nuestras cartas, esperamos ofrecer momentos de conexión, risas y recuerdos preciosos a todos aquellos que aman pasar tiempo juntos."
+    },
+    "story": {
+      "title": "Nuestra Historia",
+      "description": "Nacida de un simple 'Te amo' transformado por nuestro hijo en 'POPEP'"
+    },
+    "mission": {
+      "title": "Nuestra Misión",
+      "description": "Crear momentos inolvidables entre seres queridos"
+    },
+    "vision": {
+      "title": "Nuestra Visión",
+      "description": "Hacer el juego accesible para todos, en todos los idiomas"
+    },
+    "values": {
+      "title": "Nuestros Valores",
+      "description": "Amabilidad, inclusividad y autenticidad"
+    }
+  },
+  "home": {
+    "versions": "Versiones del Juego",
+    "couple": {
+      "title": "El Juego en Pareja - Para (Re)descubrir al Otro",
+      "description": "Incluso cuando se ama desde hace tiempo, siempre hay cosas por explorar"
+    },
+    "distance": {
+      "title": "El Juego a Distancia - Para Sentirse Más Cerca a Pesar de los Kilómetros",
+      "description": "Hoy en día, cada vez más parejas viven a distancia, ya sea temporal o permanentemente"
+    },
+    "postpartum": {
+      "title": "Love&Couches - El Juego Especial Post-Parto",
+      "description": "Fomenten la intimidad mientras se adaptan a su nueva vida, con un nuevo miembro en su familia"
+    },
+    "friends": {
+      "title": "El Juego Entre Amigos - Para Aquellos Que Creemos Ya Conocer",
+      "description": "Pensamos que lo sabemos todo de nuestros amigos, pero las verdaderas conversaciones son a menudo escasas"
+    },
+    "values": {
+      "title": "Nuestros Valores",
+      "kindness": {
+        "title": "Amabilidad",
+        "description": "Interacciones cálidas y respetuosas donde todos se sienten escuchados"
+      },
+      "inclusivity": {
+        "title": "Inclusividad",
+        "description": "Celebrando la diversidad de parejas y amigos"
+      },
+      "accessibility": {
+        "title": "Accesibilidad",
+        "description": "Disponible en varios idiomas para todos"
+      }
+    },
+    "testimonials": {
+      "title": "Lo que Dicen",
+      "couple": {
+        "text": "¡Un juego que realmente fortaleció nuestra relación. Los momentos compartidos son preciosos!",
+        "author": "Marie y Thomas"
+      },
+      "friends": {
+        "text": "¡Perfecto para nuestras reuniones de amigos. Siempre descubrimos algo nuevo!",
+        "author": "Grupo de Amigos"
+      },
+      "parents": {
+        "text": "La versión Love&Couches nos ayudó a redescubrir nuestra intimidad.",
+        "author": "Elodie y Sara"
+      }
+    }
+  },
+  "concept": {
+    "intro": {
+      "text1": "Creación de un juego de cartas diseñado para diferentes públicos, con versiones específicamente adaptadas para parejas, amigos, relaciones a distancia y una versión especial para padres primerizos.",
+      "text2": "Cada versión busca promover la comunicación, el compartir y la complicidad, permitiendo que todos vivan momentos únicos y enriquecedores, independientemente de su contexto relacional."
+    },
+    "versions": {
+      "couple": {
+        "title": "El Juego en Pareja - Para (Re)descubrir al Otro",
+        "description": "Incluso cuando se ama desde hace tiempo, siempre hay cosas por explorar.",
+        "longDescription": "Este juego es una invitación a nutrir la complicidad, abrir el diálogo y fortalecer la comprensión dentro de la pareja. Porque el amor se cultiva tanto en las pequeñas atenciones como en las grandes conversaciones."
+      },
+      "distance": {
+        "title": "El Juego a Distancia - Para Sentirse Más Cerca a Pesar de los Kilómetros",
+        "description": "Hoy en día, cada vez más parejas viven a distancia, ya sea temporal o permanentemente.",
+        "longDescription": "Este juego fue pensado para ellos: una manera lúdica de romper la rutina y divertirse juntos, incluso a través de una pantalla, una llamada o un simple mensaje. Porque el amor verdadero no conoce fronteras."
+      },
+      "postpartum": {
+        "title": "Love&Couches - El Juego Especial Post-Parto",
+        "description": "Una de cada dos parejas tiene dificultades después de la llegada de un hijo. Cansancio, emociones, cambios...",
+        "longDescription": "Este juego fue diseñado para ayudar a recrear vínculos durante este período sensible. Sentados en el sofá, entre tomas, aún podemos decirnos cosas importantes — y sobre todo, seguir amándonos."
+      },
+      "friends": {
+        "title": "El Juego Entre Amigos - Para Aquellos Que Creemos Ya Conocer",
+        "description": "Pensamos que lo sabemos todo de nuestros amigos, pero las verdaderas conversaciones son a menudo escasas.",
+        "longDescription": "Este juego vuelve a poner en el centro las confidencias, los recuerdos, las risas y a veces las sorpresas. Porque nunca es tarde para descubrir (o redescubrir) a quienes nos rodean."
+      }
+    }
+  },
+  "strengths": {
+    "title": "Nuestras Fortalezas",
+    "subtitle": "Destacando la autenticidad del juego y su compromiso con la diversidad y el medio ambiente.",
+    "expertise": {
+      "title": "Experiencia Complementaria",
+      "description": "Un equipo con habilidades diversas que enriquece el proyecto, combinando experiencias profesionales y personales para crear un producto único y atractivo."
+    },
+    "passion": {
+      "title": "Pasión y Autenticidad",
+      "description": "Un proyecto nacido de un amor genuino por las relaciones humanas, ofreciendo experiencias auténticas y significativas a los jugadores."
+    },
+    "eco": {
+      "title": "Compromiso Ambiental",
+      "description": "Un compromiso para minimizar el impacto ambiental a través de elecciones sostenibles, tanto en el diseño del juego como en los materiales utilizados."
+    },
+    "accessibility": {
+      "title": "Accesibilidad",
+      "description": "Un diseño inclusivo que permite que todos participen, sin importar edad, origen u orientación, asegurando que todos puedan compartir momentos de conexión."
+    }
+  },
+  "footer": {
+    "rights": "© 2024 POPEP - Todos los derechos reservados",
+    "contact": "Contacto",
+    "legal": "Aviso Legal",
+    "terms": "Términos y Condiciones"
+  }
+}
